@@ -39,6 +39,7 @@
 - 科学上网：`luci-app-openclash`
 - 去广告：`luci-app-adbyby-plus,luci-app-adblock`
 - 常用组合：`luci-app-ttyd,luci-app-adbyby-plus,luci-app-accesscontrol`
+- 青龙面板：`kmod-fs-btrfs,kmod-ipt-physdev,kmod-nf-ipvs,kmod-nf-conntrack6,kmod-ipt-fullconenat`
 ---
 ## 支持的设备型号
 
